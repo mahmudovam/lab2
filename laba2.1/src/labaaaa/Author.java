@@ -39,7 +39,5 @@ public class Author {
                 "(" + gender + ")"+
                 " at " + email ;
     }
-    //public void info() {
-       // System.out.println("Name  " + name + " email - " + email + " gender - "+gender);
-  //  }
+   
 }
